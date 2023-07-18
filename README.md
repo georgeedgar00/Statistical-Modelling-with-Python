@@ -15,7 +15,7 @@ The goal was to predict AVAILABLE BIKES in bike stops in London using Station Nu
 ### 6. Model Evaluation and Interpretation
 
 ## Results
-(fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
+On average, Foursquare had 107 reviews, while Yelp had an average of 61 reviews.
 
 ## Challenges 
 - Obtaining comprehensive and reliable data on London parks, including customer reviews, posed a challenge due to data availability constraints.
